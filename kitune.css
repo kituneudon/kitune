@@ -1,16 +1,17 @@
 body {
     background-color: #ffdffc;
-  }
-
-.tyuuou{
-    color:rgb(0, 195, 255);
-    margin-left: auto;
-    margin-right: auto;
-    width: 12em
 }
-
-.tyuu{
-    margin-left: auto;
-    margin-right: auto;
-    width: 14em
+.kinkyou{
+    background-color: #6efdbf;
+}
+.otokonoko{
+    background-color: #aae8fe;
+}
+#exam1 table, #exam1 td, #exam1 th {
+    font-size:15px;
+    border: solid 2px blue;
+}
+#exam2 table,td,th{
+	font-size:12px;
+    border: solid 1px #ffdffc;
 }
