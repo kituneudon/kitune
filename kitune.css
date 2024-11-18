@@ -7,6 +7,9 @@ body {
 .otokonoko{
     background-color: #aae8fe;
 }
+.VRChat{
+    background-color: aqua;
+}
 #exam1 table, #exam1 td, #exam1 th {
     font-size:15px;
     border: solid 2px blue;
