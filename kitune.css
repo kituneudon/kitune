@@ -18,3 +18,17 @@ body {
 	font-size:12px;
     border: solid 1px #ffdffc;
 }
+.vrc-tab-buttons button {
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: #ffb3ff;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.vrc-tab-buttons button:hover {
+    background-color: #ff66cc;
+    color: white;
+}
