@@ -1,5 +1,6 @@
 body {
     background-color: #ffdffc;
+    padding-left: 10px;
 }
 .kinkyou{
     background-color: #6efdbf;
@@ -13,10 +14,6 @@ body {
 #exam1 table, #exam1 td, #exam1 th {
     font-size:15px;
     border: solid 2px blue;
-}
-#exam2 table, #exam2 td, #exam2 th {
-	font-size:12px;
-    border: solid 1px #ffdffc;
 }
 .vrc-tab-buttons button {
     margin: 5px;
