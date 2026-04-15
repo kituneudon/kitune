@@ -4,16 +4,20 @@ body {
 }
 .kinkyou{
     background-color: #6efdbf;
+    padding-left: 5%;
 }
 .otokonoko{
     background-color: #aae8fe;
+    padding-left: 5%;
 }
 .VRChat{
     background-color: #b8adff;
+    padding-left: 5%;
 }
 #exam1 table, #exam1 td, #exam1 th {
     font-size:15px;
     border: solid 2px blue;
+    padding-left: 5%;
 }
 .vrc-tab-buttons button {
     margin: 5px;
@@ -28,4 +32,5 @@ body {
 .vrc-tab-buttons button:hover {
     background-color: #ff66cc;
     color: white;
+    padding-left: 5%;
 }
