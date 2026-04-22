@@ -1,25 +1,23 @@
 body {
-    /* background-color: #ffdffc; */
     padding-left: 5%;
-    background-image: url("BackImageOne.jpg");
+    background-image: url(BackImageOne.jpg);
     background-size: cover;
 }
 .kinkyou{
-    background-color: #6efdbf;
+    /* background-color: #6efdbf; */
     padding-left: 5%;
 }
 .otokonoko{
-    background-color: #aae8fe;
+    /* background-color: #aae8fe; */
     padding-left: 5%;
 }
 .VRChat{
-    background-color: #b8adff;
+    /* background-color: #b8adff; */
     padding-left: 5%;
 }
 #exam1 table,#exam1 td, #exam1 tr {
     border: solid 2px blue;
 }
-
 .vrc-tab-buttons button {
     margin: 5px;
     padding: 10px 20px;
