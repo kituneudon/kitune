@@ -14,7 +14,7 @@ body {
     background-color: #b8adff;
     padding-left: 5%;
 }
-#exam1 table, #exam1 td, #exam1 th {
+#exam1 table, #exam1 td, #exam1 tr {
     font-size:15px;
     border: solid 2px blue;
     padding-left: 5%;
