@@ -16,7 +16,6 @@ body {
 }
 #exam1 table{
     font-size:15px;
-    padding-left: 5%;
     border: solid 2px blue;
 }
 #exam1 td, #exam1 tr {
