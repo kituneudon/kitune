@@ -14,10 +14,7 @@ body {
     background-color: #b8adff;
     padding-left: 5%;
 }
-#exam1 table{
-    border: solid 2px blue;
-}
-#exam1 td, #exam1 tr {
+#exam1 table,#exam1 td, #exam1 tr {
     border: solid 2px blue;
 }
 
@@ -34,5 +31,5 @@ body {
 .vrc-tab-buttons button:hover {
     background-color: #ff66cc;
     color: white;
-    padding-left: 5%;
+
 }
