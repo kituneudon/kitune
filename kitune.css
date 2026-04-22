@@ -1,6 +1,8 @@
 body {
-    background-color: #ffdffc;
+    /* background-color: #ffdffc; */
     padding-left: 5%;
+    background-image: url("BackImageOne.jpg");
+    background-size: cover;
 }
 .kinkyou{
     background-color: #6efdbf;
